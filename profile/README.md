@@ -8,7 +8,7 @@ Bienvenidos 👋
 
 [Imagen vía Unsplash](https://unsplash.com/photos/4hbJ-eymZ1o)
 
-🙋 **Grupo privado `DW2A`**
+🙋 **Grupo privado `SR2A`**
 
 ## Referencias
 
