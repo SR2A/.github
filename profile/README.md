@@ -13,7 +13,7 @@ Bienvenidos 👋
 ## Referencias
 
 - [INCIBE](https://www.incibe.es/):
-  > El *Instituto Nacional de Ciberseguridad de España* (**INCIBE**) es una sociedad dependiente del Ministerio de Asuntos Económicos y Transformación Digital a través de la *Secretaría de Estado de Digitalización e Inteligencia Artificial* y consolidada como entidad de referencia para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos.
+  > El *Instituto Nacional de Ciberseguridad de España* (**INCIBE**) es una sociedad dependiente del *Ministerio de Asuntos Económicos y Transformación Digital* a través de la *Secretaría de Estado de Digitalización e Inteligencia Artificial* y consolidada como entidad de referencia para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos.
 - [CCN-CERT](https://www.ccn-cert.cni.es/):
   > El CCN-CERT es la Capacidad de Respuesta a Incidentes de Seguridad de la Información del Centro Criptológico Nacional.
 - [The Hacker News](https://thehackernews.com/):
