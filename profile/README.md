@@ -1,5 +1,10 @@
 Bienvenidos 👋
 
+> "Only a few know, how much one must know to know how little one knows."
+
+- Werner Heisenberg (1901 - 1976)
+
+
 # Seguridad y Alta Disponibilidad
 
 > `IES Clara del Rey`
