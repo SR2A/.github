@@ -11,9 +11,9 @@ Bienvenidos 👋
 
 ![Grupo DW2A](https://raw.githubusercontent.com/SR2A/.github/main/profile/SR2A.png "Este es un grupo privado")
 
-[Imagen vía Unsplash](https://unsplash.com/photos/4hbJ-eymZ1o) - [Intro to GitHub](https://classroom.github.com/a/XxRz4tDc)
+[Imagen vía Unsplash](https://unsplash.com/photos/4hbJ-eymZ1o)
 
-:eight_spoked_asterisk: [GitHub Classroom](https://classroom.github.com/classrooms/145965336-sr2a-classroom)
+:eight_spoked_asterisk: [GitHub Classroom](https://classroom.github.com/classrooms/145965336-sr2a-classroom) - [Intro to GitHub](https://classroom.github.com/a/XxRz4tDc)
 
 🙋 **Grupo privado `SR2A`**
 
