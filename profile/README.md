@@ -13,6 +13,8 @@ Bienvenidos 👋
 
 [Imagen vía Unsplash](https://unsplash.com/photos/4hbJ-eymZ1o)
 
+:eight_spoked_asterisk: [GitHub Classroom](https://classroom.github.com/classrooms/145965336-sr2a-classroom)
+
 🙋 **Grupo privado `SR2A`**
 
 ## Referencias
